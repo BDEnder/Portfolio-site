@@ -20,7 +20,7 @@ const App = () => {
           <Card
             name={"Portfolio site"}
             description={"Just a portfolio site. Are you on it now"}
-            link={"https://github.com/"}
+            link={"https://github.com/BDEnder/Portfolio-site"}
           />
         </div>
       </div>
